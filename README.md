@@ -1,2 +1,3 @@
-# -2.-HTML-CSS.-1.
-FIT 2-15
+### LW3.-Creating-base-HTML-CSS-marking
+## FIT 2-15
+# Pidipryhora Kyrylo Yehorovych
